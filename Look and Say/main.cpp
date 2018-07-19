@@ -8,7 +8,7 @@ string lookandsay(int N){
     char aux;
     int count = 0;
 
-    for (int i = 1; i < n; i++){
+    for (int i = 1; i < N; i++){
         aux = number[0];
         for (int j = 0; j < number.size(); j++){
             if (aux == number[j]){
