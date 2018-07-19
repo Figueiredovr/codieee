@@ -1,3 +1,7 @@
+/**
+	Heitor Rodrigues
+	https://csacademy.com/contest/interview-archive/task/3-divisible-pairs/
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
