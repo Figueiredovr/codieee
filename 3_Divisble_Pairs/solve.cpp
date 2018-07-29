@@ -8,6 +8,8 @@ using namespace std;
 
 int arr[100001];
 
+const int a;
+
 int main() {
     int n;
     scanf ("%d",&n);
