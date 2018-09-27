@@ -20,3 +20,5 @@ while N > 0 do
 end
 print(evolved)
 
+--[==[ print(math.floor(math.min(N, (M + Y * N) / (X + Y)))) --]==] --for some reason this works, need to know why
+
